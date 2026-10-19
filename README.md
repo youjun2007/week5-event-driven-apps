@@ -1,6 +1,8 @@
-﻿# Week 5 Event-Driven Programming
+# Week 5 Event-Driven Programming
 
 Two simple Tkinter calculator apps for the Week 5 practical task.
+
+**GitHub repository:** https://github.com/youjun2007/week5-event-driven-apps
 
 ## Files
 
@@ -46,4 +48,6 @@ Both apps show a friendly message for blank input, non-numeric input, and values
 - [x] Invalid input is caught with `try/except`
 - [x] Wireframes are included in this README
 - [x] Git repository contains at least three commits
-- [ ] Push the repository to GitHub and submit the link
+- [x] Code pushed to GitHub
+- [x] Repository link included in this README
+
